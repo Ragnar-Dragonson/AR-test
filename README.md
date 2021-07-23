@@ -1,2 +1,8 @@
 # AR-test
-An ARCore project that generates an object within the camera of a smart phone to create a augmented reality feel, also includes unity animation to create a dismantle and build effect to the object 
+An ARCore project that generates an object within the camera of a smart phone to create a augmented reality feel, also includes unity animation to create a dismantle and build effect to the object.
+
+![Image1](Images/Image1.png)
+
+![Image2](Images/Image2.png)
+
+![Image3](Images/Image3.png)
